@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="86.297997mm"
+   height="18.014999mm"
+   viewBox="0 0 86.297996 18.014999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="88.817mm"
+     inkscape:zoom="2.078763"
+     inkscape:cx="166.44514"
+     inkscape:cy="35.117039"
+     inkscape:window-width="1920"
+     inkscape:window-height="1004"
+     inkscape:window-x="1920"
+     inkscape:window-y="45"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g984"
+       transform="matrix(1.0000063,0,0,1.0000063,-1.6221651,-0.24336494)"
+       style="fill:#ffffff">
+      <path
+         id="rect77005-2-5-92-3"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.336737;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m 2.1504151,4.55503 c -0.2927201,0 -0.5286201,0.23589 -0.5286201,0.52861 v 12.64599 c 0,0.29272 0.2359,0.52862 0.5286201,0.52862 H 14.796416 c 0.29271,0 0.5286,-0.2359 0.5286,-0.52862 v -7.45452 l -0.57528,-0.13215 0.25181,4.92453 -2.97247,-3.93437 -2.9724806,3.93437 0.25182,-4.92453 -4.8061903,1.10325 3.35841,-3.61023 -4.39066,-2.24464 4.8936403,-0.60685 -0.0973,-0.22946 z" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:24.7401px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.619;stroke-miterlimit:4;stroke-dasharray:none"
+         x="19.488926"
+         y="17.858315"
+         id="text1551-7-7-9"><tspan
+           sodipodi:role="line"
+           id="tspan1549-0-5-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Exo 2';-inkscape-font-specification:'Exo 2 Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.619;stroke-miterlimit:4;stroke-dasharray:none"
+           x="19.488926"
+           y="17.858315">vi<tspan
+   style="fill:#ffffff;fill-opacity:1;stroke-width:0.619;stroke-miterlimit:4;stroke-dasharray:none"
+   id="tspan55458-9-9-1">sam</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
